@@ -3,4 +3,4 @@ __pycache__
 *.pyc
 .vscode
 .env
-database.db
+travel_tax.db
